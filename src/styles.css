@@ -1,0 +1,21 @@
+/* Add application styles & imports to this file! */
+h1{
+ color:chocolate;
+ font-family: arial,Arial, Helvetica, sans-serif;
+ font-size: 250%;
+}
+h2,h3{
+  color:cornflowerblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+body{
+  margin:2em;
+  }
+body input[type="text"],button{
+  color:cyan;
+  font-family: cambria, Georgia;
+}
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
